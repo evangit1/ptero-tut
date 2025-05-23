@@ -1,4 +1,4 @@
-```markdown
+
 # Full Pterodactyl Setup: Home Server + VPS Reverse Proxy (Ubuntu, Tailscale, Cloudflare)
 
 This guide walks you through installing the Pterodactyl Panel and Wings daemon on a home server, making it securely accessible via a VPS reverse proxy. We'll use Tailscale for secure internal networking and Cloudflare for DNS and initial SSL.
