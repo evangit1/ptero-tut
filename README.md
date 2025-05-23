@@ -21,6 +21,7 @@ This guide walks you through installing the **Pterodactyl Panel** and **Wings** 
 | **Home Server** (Pterodactyl & Wings) | `100.60.10.1` | Replace with your home server’s Tailscale IP |
 | **VPS** (Reverse Proxy) | Public IP `203.0.113.45`<br>Tailscale IP `100.60.20.2` | Replace with your VPS IPs |
 | **Panel Domain** | `panel.yourdomain.com` | Replace with your actual domain |
+*Note: this tutorial is long and you will want to do lots of copying & pasting, downloading this file and doing 'find and replace' to put in your own info will make it easier
 
 ---
 
